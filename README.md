@@ -2,8 +2,9 @@
 
 - 從excel 檔案中匯入牌卡，必需包含header [deck, english, chinese]
 - 需要先有「綺英文」此卡片類別
-- 使用anki pylib ，非add-on 
+- 使用anki pylib 操作 collection.anki2，非add-on 
 - 不會判斷重覆資料
+- anki 使用者資料目錄於： C:\Users\jonson\AppData\Roaming\Anki2\
 
 
 
