@@ -9,7 +9,7 @@
 
 
 # 參考資料
-
+- pip install anki
 - https://addon-docs.ankiweb.net/the-anki-module.html
 - anki pylib source code:  https://github.com/ankitects/anki/tree/main/pylib/anki
 
